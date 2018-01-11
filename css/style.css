@@ -253,7 +253,7 @@ section {
   display: block;
   display: inline-block;
   position: relative;
-  background: transparent url('../images/hai.jpg') center top no-repeat;
+  background: transparent url('../images/hai_2.jpeg') center top no-repeat;
 }
 
 .minhhai:hover {
@@ -266,7 +266,7 @@ section {
   display: block;
   display: inline-block;
   position: relative;
-  background: transparent url('../images/thuy.jpg') center top no-repeat;
+  background: transparent url('../images/thuy_2.jpg') center top no-repeat;
 }
 
 .thuthuy:hover {
